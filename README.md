@@ -31,28 +31,28 @@ This is a E-commerce web site user can buy the product user can see its previous
 <H2>Screenshots<H2>
 <hr>
 <h3>Home</h3>
-<img src="./screenshot/home.png" alt="Home">
+<img src="./Screenshot/home.png" alt="Home">
 <h3>Sign up</h3>
-<img src="./screenshot/registration.png" alt="Sign Up">
+<img src="./Screenshot/registration.png" alt="Sign Up">
 <h3>Login</h3>
-<img src="./screenshot/login.png" alt="Sign In">
+<img src="./Screenshot/login.png" alt="Sign In">
 <h3>Profile</h3>
 <img src="./Screenshot/profile.png" alt="profile">
 <h3>Products</h3>
-<img src="./screenshot/shirt.png" alt="Items1">
-<img src="./screenshot/shoes.png" alt="Items2">
-<img src="./screenshot/phone.png" alt="Items3">
+<img src="./Screenshot/shirt.png" alt="Items1">
+<img src="./Screenshot/shoes.png" alt="Items2">
+<img src="./Screenshot/phone.png" alt="Items3">
 <h3>Cart</h3>
-<img src="./screenshot/cart.png" alt="Cart">
+<img src="./Screenshot/cart.png" alt="Cart">
 <h3>Order</h3>
-<img src="./screenshot/order.png" alt="Order">
-<img src="./screenshot/orderDetails.png" alt="Order Detail">
+<img src="./Screenshot/order.png" alt="Order">
+<img src="./Screenshot/orderDetails.png" alt="Order Detail">
 <h3>Payment</h3>
-<img src="./screenshot/payment.png" alt="Payment">
-<img src="./screenshot/paymentGateway.png" alt="Payment Gateway">
+<img src="./Screenshot/payment.png" alt="Payment">
+<img src="./Screenshot/paymentGateway.png" alt="Payment Gateway">
 <h3>Admin Panel</h3>
-<img src="./screenshot/adminDashboard.png" alt="Admin Dashboard">
-<img src="./screenshot/productDetailByAdmin.png" alt="Product detail">
-<img src="./screenshot/shoppingDetails.png" alt="Shopping detail">
+<img src="./Screenshot/adminDashboard.png" alt="Admin Dashboard">
+<img src="./Screenshot/productDetailByAdmin.png" alt="Product detail">
+<img src="./Screenshot/shoppingDetails.png" alt="Shopping detail">
 
 
