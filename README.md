@@ -13,7 +13,6 @@ This is a E-commerce web site user can buy the product user can see its previous
     <li>Admin Dashboard</li>
     <li>Order Detail</li>
     <li>Payment & Payment Gateway</li>
-    <li></li>
     <li>See Previous Order</li>
 
 </ul>
